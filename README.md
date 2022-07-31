@@ -1,11 +1,11 @@
 # Smiles
-A simple Validation form using React.js
-Adds new users to list below the component
-State Management
-Css Modules
-Lifting the State
-reusable components
-simple design best practices!
+- A simple Validation form using React.js
+- Adds new users to list below the component
+- State Management
+- Css Modules
+- Lifting the State
+- reusable components
+- simple design best practices!
   
     Main
 ![react1](https://user-images.githubusercontent.com/55124189/182006579-d2582002-e2e5-41c6-846f-9e77ff6ed18e.png)
